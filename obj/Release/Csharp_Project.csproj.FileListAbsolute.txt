@@ -1,0 +1,181 @@
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\bin\Release\Csharp_Project.exe.config
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\bin\Release\Csharp_Project.exe
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\bin\Release\Csharp_Project.pdb
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\bin\Release\itextsharp.dll
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.csprojResolveAssemblyReference.cache
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.FORM_ADD_NEW_CATEGORIE.resources
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.FORM_ALL_ORDERS.resources
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.FORM_CUSTOMER_ORDERS.resources
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.FORM_HOME.resources
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.FORM_LOGIN.resources
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.FORM_MANAGE_CATEGORIES.resources
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.FORM_MANAGE_CUSTOMER.resources
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.FORM_MANAGE_RECEIPT.resources
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.FORM_MANAGE_PRODUCT.resources
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.FORM_MANAGE_USER.resources
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.FORM_NEW_CUSTOMER.resources
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.FORM_NEW_PRODUCT.resources
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.FORM_NEW_USER.resources
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.FORM_PRODUCTS_IN_CATEGORY.resources
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.FORM_QUANTITY.resources
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.FORM_UPDATE_PRODUCT.resources
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.frmPrint.resources
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.ManageReceipt.resources
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.Properties.Resources.resources
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.csproj.GenerateResource.Cache
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\RdlCompile.cache
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\RdlCompile.compiled
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.exe
+F:\muji point of sale\Csharp_inventory_management_system\Csharp_Project\Csharp_Project\obj\Release\Csharp_Project.pdb
+E:\Mujahid latest software backup file\Csharp_Project\bin\Release\Csharp_Project.exe.config
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.exe
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.pdb
+E:\Mujahid latest software backup file\Csharp_Project\bin\Release\Csharp_Project.exe
+E:\Mujahid latest software backup file\Csharp_Project\bin\Release\Csharp_Project.pdb
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_ADD_NEW_CATEGORIE.resources
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_ALL_ORDERS.resources
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_CUSTOMER_ORDERS.resources
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_HOME.resources
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_LOGIN.resources
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_MANAGE_CATEGORIES.resources
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_MANAGE_CUSTOMER.resources
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_MANAGE_RECEIPT.resources
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_MANAGE_PRODUCT.resources
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_MANAGE_USER.resources
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_NEW_CUSTOMER.resources
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_NEW_PRODUCT.resources
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_NEW_USER.resources
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_PRODUCTS_IN_CATEGORY.resources
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_QUANTITY.resources
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_UPDATE_PRODUCT.resources
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.frmPrint.resources
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.ManageReceipt.resources
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.Properties.Resources.resources
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.csproj.GenerateResource.Cache
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\RdlCompile.cache
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\RdlCompile.compiled
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.csprojResolveAssemblyReference.cache
+E:\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.Form1.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\bin\Release\Csharp_Project.exe.config
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.exe
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.pdb
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\bin\Release\Csharp_Project.exe
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\bin\Release\Csharp_Project.pdb
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.csprojResolveAssemblyReference.cache
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.Form1.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_ADD_NEW_CATEGORIE.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_ALL_ORDERS.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_CUSTOMER_ORDERS.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_HOME.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_LOGIN.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_MANAGE_CATEGORIES.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_MANAGE_CUSTOMER.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_MANAGE_RECEIPT.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_MANAGE_PRODUCT.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_MANAGE_USER.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_NEW_CUSTOMER.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_NEW_PRODUCT.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_NEW_USER.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_PRODUCTS_IN_CATEGORY.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_QUANTITY.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_UPDATE_PRODUCT.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.frmPrint.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.ManageReceipt.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.Properties.Resources.resources
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.csproj.GenerateResource.Cache
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\RdlCompile.cache
+D:\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\RdlCompile.compiled
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\bin\Release\Csharp_Project.exe.config
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.exe
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.pdb
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\bin\Release\Csharp_Project.exe
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\bin\Release\Csharp_Project.pdb
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.csprojResolveAssemblyReference.cache
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.Form1.resources
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_ADD_NEW_CATEGORIE.resources
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_ALL_ORDERS.resources
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_CUSTOMER_ORDERS.resources
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_HOME.resources
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_LOGIN.resources
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_MANAGE_CATEGORIES.resources
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_MANAGE_CUSTOMER.resources
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_MANAGE_RECEIPT.resources
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_MANAGE_PRODUCT.resources
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_MANAGE_USER.resources
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_NEW_CUSTOMER.resources
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_NEW_PRODUCT.resources
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_NEW_USER.resources
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_PRODUCTS_IN_CATEGORY.resources
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_QUANTITY.resources
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.FORM_UPDATE_PRODUCT.resources
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.frmPrint.resources
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.ManageReceipt.resources
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.Properties.Resources.resources
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\Csharp_Project.csproj.GenerateResource.Cache
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\RdlCompile.cache
+E:\Projects Latest Archive\Auto Soft 23-03-2020\23-3-2020\Mujahid latest software backup file\Csharp_Project\obj\Release\RdlCompile.compiled
+E:\NPA_Archive 08.04.2020 Testing\bin\Release\Csharp_Project.exe.config
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.BarcodeForm.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.Form1.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_ADD_NEW_CATEGORIE.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_ALL_ORDERS.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_CUSTOMER_ORDERS.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_HOME.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_LOGIN.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_MANAGE_CATEGORIES.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_MANAGE_CUSTOMER.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_MANAGE_RECEIPT.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_MANAGE_PRODUCT.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_MANAGE_USER.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_NEW_CUSTOMER.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_NEW_PRODUCT.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_NEW_USER.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_PRODUCTS_IN_CATEGORY.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_QUANTITY.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_SEARCH_PRODUCT.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_UPDATE_PRODUCT.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.frmPrint.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.ManageReceipt.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.Properties.Resources.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.Sales.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.SalesReturnForms.resources
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.csproj.GenerateResource.Cache
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\RdlCompile.cache
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\RdlCompile.compiled
+E:\NPA_Archive 08.04.2020 Testing\bin\Release\Csharp_Project.exe
+E:\NPA_Archive 08.04.2020 Testing\bin\Release\Csharp_Project.pdb
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.exe
+E:\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.pdb
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\bin\Release\Csharp_Project.exe.config
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.exe
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.pdb
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\bin\Release\Csharp_Project.exe
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\bin\Release\Csharp_Project.pdb
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.BarcodeForm.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.Form1.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_ADD_NEW_CATEGORIE.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_ALL_ORDERS.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_CUSTOMER_ORDERS.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_HOME.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_LOGIN.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_MANAGE_CATEGORIES.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_MANAGE_CUSTOMER.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_MANAGE_RECEIPT.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_MANAGE_PRODUCT.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_MANAGE_USER.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_NEW_CUSTOMER.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_NEW_PRODUCT.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_NEW_USER.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_PRODUCTS_IN_CATEGORY.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_QUANTITY.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_SEARCH_PRODUCT.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.FORM_UPDATE_PRODUCT.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.frmPrint.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.ManageReceipt.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.Properties.Resources.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.Sales.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.SalesReturnForms.resources
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.csproj.GenerateResource.Cache
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\RdlCompile.cache
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\RdlCompile.compiled
+D:\POS(Mujhaid Final Deployed)\C# POS Software\Mujhaid software final update and deployment\Auto Soft Most Recent Update of  08-04-2020\NPA_Archive 08.04.2020 Testing\obj\Release\Csharp_Project.csprojResolveAssemblyReference.cache

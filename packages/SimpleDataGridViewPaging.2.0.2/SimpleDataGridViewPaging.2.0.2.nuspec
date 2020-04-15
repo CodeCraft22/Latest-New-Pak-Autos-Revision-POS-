@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SimpleDataGridViewPaging</id>
+    <version>2.0.2</version>
+    <title>DataGridViewPaging</title>
+    <authors>sontx</authors>
+    <owners>sontx</owners>
+    <licenseUrl>https://github.com/sontx/simple-datagridview-paging/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/sontx/simple-datagridview-paging</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A simple UserControl that shows the data-table and paging automatically. With this library, you can also edit the data and it will be saved to the database automatically.</description>
+    <summary>Just one line, the database will be shown, paged and also editable.</summary>
+    <releaseNotes>1. Fix page number input issue</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Paging DataGridView pagination database</tags>
+  </metadata>
+</package>
