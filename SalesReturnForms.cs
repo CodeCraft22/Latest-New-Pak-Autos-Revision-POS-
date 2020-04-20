@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
+using System.IO;
+using Spire.PdfViewer.Forms;
 
 
 
@@ -120,11 +122,22 @@ namespace Csharp_Project
                 }
                 txtTotal.Text = string.Format("{0}.00", sum.ToString()); 
 
+        
+
+                //commited feature
+                int flg = 2;
+
+                Form1 frm1 = new Form1(txtsearchbyBillNo.Text, flg);
+                frm1.Show();
+                txtsearchbyBillNo.Text = "";
+                
+               
+                      
+                  
             }
 
-
-
         }
+
 
 
         private void txtsearchbyBillNo_KeyDown(object sender, KeyEventArgs e)
@@ -312,6 +325,15 @@ namespace Csharp_Project
 
             }
 
+        }
+
+        private void btnsale_Click(object sender, EventArgs e)
+        {
+
+            int flgs = 1;
+            Form1 frm1 = new Form1(txtSearchbysale.Text, flgs);
+            frm1.ShowDialog();
+            txtSearchbysale.Text = "";
         }
     }
 }

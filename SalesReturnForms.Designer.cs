@@ -58,6 +58,8 @@
             this.txtTotal = new System.Windows.Forms.TextBox();
             this.label11 = new System.Windows.Forms.Label();
             this.SaleBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.txtSearchbysale = new System.Windows.Forms.TextBox();
+            this.btnsale = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_SALES_RETURN)).BeginInit();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.SaleBindingSource)).BeginInit();
@@ -67,10 +69,10 @@
             // 
             this.DGV_SALES_RETURN.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.DGV_SALES_RETURN.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.DGV_SALES_RETURN.Location = new System.Drawing.Point(333, 48);
+            this.DGV_SALES_RETURN.Location = new System.Drawing.Point(333, 55);
             this.DGV_SALES_RETURN.Name = "DGV_SALES_RETURN";
             this.DGV_SALES_RETURN.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.DGV_SALES_RETURN.Size = new System.Drawing.Size(883, 374);
+            this.DGV_SALES_RETURN.Size = new System.Drawing.Size(883, 367);
             this.DGV_SALES_RETURN.TabIndex = 1;
             this.DGV_SALES_RETURN.Click += new System.EventHandler(this.DGV_SALES_RETURN_Click);
             // 
@@ -216,11 +218,11 @@
             this.btnBillNo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnBillNo.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnBillNo.ForeColor = System.Drawing.Color.White;
-            this.btnBillNo.Location = new System.Drawing.Point(1047, 15);
+            this.btnBillNo.Location = new System.Drawing.Point(1027, 3);
             this.btnBillNo.Name = "btnBillNo";
-            this.btnBillNo.Size = new System.Drawing.Size(132, 21);
+            this.btnBillNo.Size = new System.Drawing.Size(180, 21);
             this.btnBillNo.TabIndex = 63;
-            this.btnBillNo.Text = "Search By Bill NO";
+            this.btnBillNo.Text = "View Return Invoices By Bill ";
             this.btnBillNo.UseVisualStyleBackColor = false;
             this.btnBillNo.Click += new System.EventHandler(this.btnBillNo_Click);
             // 
@@ -228,7 +230,7 @@
             // 
             this.txtsearchbyBillNo.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Suggest;
             this.txtsearchbyBillNo.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
-            this.txtsearchbyBillNo.Location = new System.Drawing.Point(893, 16);
+            this.txtsearchbyBillNo.Location = new System.Drawing.Point(873, 3);
             this.txtsearchbyBillNo.Name = "txtsearchbyBillNo";
             this.txtsearchbyBillNo.Size = new System.Drawing.Size(148, 20);
             this.txtsearchbyBillNo.TabIndex = 62;
@@ -313,7 +315,7 @@
             // dateTimePicker1
             // 
             this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dateTimePicker1.Location = new System.Drawing.Point(333, 16);
+            this.dateTimePicker1.Location = new System.Drawing.Point(144, 12);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(200, 20);
             this.dateTimePicker1.TabIndex = 65;
@@ -321,7 +323,7 @@
             // dateTimePicker2
             // 
             this.dateTimePicker2.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dateTimePicker2.Location = new System.Drawing.Point(654, 16);
+            this.dateTimePicker2.Location = new System.Drawing.Point(465, 12);
             this.dateTimePicker2.Name = "dateTimePicker2";
             this.dateTimePicker2.Size = new System.Drawing.Size(200, 20);
             this.dateTimePicker2.TabIndex = 66;
@@ -332,7 +334,7 @@
             this.label9.BackColor = System.Drawing.Color.Transparent;
             this.label9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(239, 17);
+            this.label9.Location = new System.Drawing.Point(50, 13);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(85, 20);
             this.label9.TabIndex = 67;
@@ -344,7 +346,7 @@
             this.label10.BackColor = System.Drawing.Color.Transparent;
             this.label10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(561, 16);
+            this.label10.Location = new System.Drawing.Point(372, 12);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(77, 20);
             this.label10.TabIndex = 68;
@@ -378,11 +380,39 @@
             // 
             this.SaleBindingSource.DataSource = typeof(Csharp_Project.Receipt);
             // 
+            // txtSearchbysale
+            // 
+            this.txtSearchbysale.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Suggest;
+            this.txtSearchbysale.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
+            this.txtSearchbysale.Location = new System.Drawing.Point(873, 29);
+            this.txtSearchbysale.Name = "txtSearchbysale";
+            this.txtSearchbysale.Size = new System.Drawing.Size(148, 20);
+            this.txtSearchbysale.TabIndex = 71;
+            // 
+            // btnsale
+            // 
+            this.btnsale.BackColor = System.Drawing.Color.ForestGreen;
+            this.btnsale.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(226)))), ((int)(((byte)(86)))));
+            this.btnsale.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(189)))), ((int)(((byte)(74)))));
+            this.btnsale.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(226)))), ((int)(((byte)(86)))));
+            this.btnsale.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnsale.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnsale.ForeColor = System.Drawing.Color.White;
+            this.btnsale.Location = new System.Drawing.Point(1027, 28);
+            this.btnsale.Name = "btnsale";
+            this.btnsale.Size = new System.Drawing.Size(180, 21);
+            this.btnsale.TabIndex = 72;
+            this.btnsale.Text = "View Sale Invoices By Bill No";
+            this.btnsale.UseVisualStyleBackColor = false;
+            this.btnsale.Click += new System.EventHandler(this.btnsale_Click);
+            // 
             // SalesReturnForms
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1219, 500);
+            this.Controls.Add(this.btnsale);
+            this.Controls.Add(this.txtSearchbysale);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.txtTotal);
             this.Controls.Add(this.label10);
@@ -437,5 +467,7 @@
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.BindingSource SaleBindingSource;
+        private System.Windows.Forms.TextBox txtSearchbysale;
+        private System.Windows.Forms.Button btnsale;
     }
 }

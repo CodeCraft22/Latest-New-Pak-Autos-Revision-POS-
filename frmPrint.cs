@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
+using System.IO;
 
 
 namespace Csharp_Project
@@ -43,8 +44,7 @@ namespace Csharp_Project
             if (_bit == 1)
             {
 
-               
-                   
+                              
                     // ManageReceipt MR = new ManageReceipt();
                     DataTable ManageReceipt = new DataTable();
                     ReceiptBindingSource.DataSource = _list;
@@ -65,7 +65,6 @@ namespace Csharp_Project
 
 
 
-
                     Microsoft.Reporting.WinForms.ReportParameter[] para = new Microsoft.Reporting.WinForms.ReportParameter[]
                  {
                 new Microsoft.Reporting.WinForms.ReportParameter("pTotal",_total),
@@ -81,10 +80,19 @@ namespace Csharp_Project
 
 
 
-
-
                     this.reportViewer1.LocalReport.SetParameters(para);
                     this.reportViewer1.RefreshReport();
+
+
+                    string savePath = @"D:\Invoice Generate\" + _billNo + ".PDF";
+                    byte[] Bytes = reportViewer1.LocalReport.Render(format: "PDF", deviceInfo: "");
+
+                    using (FileStream stream = new FileStream(savePath, FileMode.Create))
+                    {
+                        stream.Write(Bytes, 0, Bytes.Length);
+                    }  
+
+
               }
                 
 
@@ -93,7 +101,6 @@ namespace Csharp_Project
 
 
                    
-
                     DataTable ManageReceipt = new DataTable();
                     ReceiptBindingSource.DataSource = _list;
                     foreach (var ReceiptRecord in _list)
@@ -121,19 +128,28 @@ namespace Csharp_Project
 
 
 
-
                         this.reportViewer1.LocalReport.SetParameters(para);
                         this.reportViewer1.RefreshReport();
 
 
 
+                        string savePath = @"D:\Invoice Returns\" + _billNo + ".PDF";
+                        byte[] Bytes = reportViewer1.LocalReport.Render(format: "PDF", deviceInfo: "");
+
+
+                        //string savePath = @"D:\Invoice Returns\" + _billNo + ".Image";
+                        //byte[] Bytes = reportViewer1.LocalReport.Render(format: "Image", deviceInfo: "");
+
+                        using (FileStream stream = new FileStream(savePath, FileMode.Create))
+                        {
+                            stream.Write(Bytes, 0, Bytes.Length);
+                        }  
+
+
                     }
                 }
             }
-        
 
-      
-    
 
 
         public void UpdateStockQuantityProducts(string product_id, int Quantity)
@@ -204,15 +220,11 @@ namespace Csharp_Project
 
 
 
-
-
-
             db.openConnection();
             db.setData("spr_insert_Receiptss", parameters);
             db.closeConnection();
 
         }
-
 
 
 

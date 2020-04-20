@@ -28,11 +28,37 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            this.pdfviewerss = new AxAcroPDFLib.AxAcroPDF();
+            ((System.ComponentModel.ISupportInitialize)(this.pdfviewerss)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // pdfviewerss
+            // 
+            this.pdfviewerss.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pdfviewerss.Enabled = true;
+            this.pdfviewerss.Location = new System.Drawing.Point(4, 12);
+            this.pdfviewerss.Name = "pdfviewerss";
+            this.pdfviewerss.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("pdfviewerss.OcxState")));
+            this.pdfviewerss.Size = new System.Drawing.Size(573, 420);
+            this.pdfviewerss.TabIndex = 0;
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(584, 444);
+            this.Controls.Add(this.pdfviewerss);
+            this.Name = "Form1";
+            this.Text = "VIEW INVOICES";
+            ((System.ComponentModel.ISupportInitialize)(this.pdfviewerss)).EndInit();
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private AxAcroPDFLib.AxAcroPDF pdfviewerss;
     }
 }
